@@ -3,4 +3,4 @@ Mobile app that captures an image through the camera, mints an NFT with that ima
 
 ## Usage
 ```npm install```  
-```npm run android (you should have Android Studio installed)```
+```npm run android``` (you should have Android Studio installed)
